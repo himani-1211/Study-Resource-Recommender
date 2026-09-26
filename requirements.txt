@@ -1,5 +1,3 @@
 streamlit==1.34.0
 pandas
-numpy
 requests
-google-api-python-client
